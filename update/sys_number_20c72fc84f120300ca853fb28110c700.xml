@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_161326_test_app_needit">x_161326_test_app_needit</category>
+        <maximum_digits>6</maximum_digits>
+        <number>2000</number>
+        <prefix>NI</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-03 15:27:41</sys_created_on>
+        <sys_id>20c72fc84f120300ca853fb28110c700</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NI</sys_name>
+        <sys_package display_value="test_app" source="x_161326_test_app">f2f611ef4f420300ca853fb28110c7b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test_app">f2f611ef4f420300ca853fb28110c7b9</sys_scope>
+        <sys_update_name>sys_number_20c72fc84f120300ca853fb28110c700</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-03 15:27:41</sys_updated_on>
+    </sys_number>
+</record_update>
